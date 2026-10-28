@@ -1,0 +1,6 @@
+{
+  "name": "LIFE OS",
+  "description": "Personal command center for daily activities, schedules, money, debts, study, goals, habits, notes, and tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
